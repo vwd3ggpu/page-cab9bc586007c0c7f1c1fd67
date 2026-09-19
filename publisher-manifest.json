@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "3e2ea10eea05f1ba21c58921",
+  "owner": "vwd3ggpu",
+  "repo": "page-cab9bc586007c0c7f1c1fd67",
+  "title": "免费订阅节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cab9bc586007c0c7f1c1fd67",
+      "a": "xip",
+      "b": "免费订阅节点",
+      "entity": "xip",
+      "brand": "免费订阅节点",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "06009031bfe4b075f0ae43adf8684cc0c519e5eb38b5a9a849728d1887c6ab46",
+      "content": {
+        "primary_entity": "xip",
+        "keyword1": "xip",
+        "keyword2": "免费订阅节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端：Windows、macOS、Android、iOS 与路由器均有对应方案。",
+          "AI_CLIENTS_TITLE": "设备与客户端适配",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择套餐，配置订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，配置订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，支持 3 至 20 台设备同时在线。旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由与专属客户经理。客户端覆盖 Windows、macOS、Android、iOS 及路由器，按设备选择对应客户端并导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备适配与订阅周期三个角度了解 xip 的使用方式。",
+          "AI_FEATURES_TITLE": "选择前需要了解的三件事",
+          "AI_FEATURE_TEXT_1": "基础版适合 1 至 3 台设备轻量使用；旗舰版覆盖 5 台设备与流媒体、游戏场景；团队版支持 20 台设备与定制路由。",
+          "AI_FEATURE_TEXT_2": "Windows、macOS、Android、iOS 及路由器各有对应客户端，按系统选择客户端后导入订阅地址完成配置。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，均按年一次性支付。",
+          "AI_FEATURE_TITLE_1": "按设备选套餐",
+          "AI_FEATURE_TITLE_2": "按系统选客户端",
+          "AI_FEATURE_TITLE_3": "按周期看价格",
+          "AI_GUIDE_INTRO": "三步完成从选择到使用的流程，无需额外操作。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "xip 提供基础版、旗舰版与团队版三档海外加速订阅，月流量 100GB 至 1000GB，设备数 3 至 20 台。按设备数量与流量需求选套餐，再根据系统选择客户端并导入订阅，即可开始使用。",
+          "AI_HERO_SUBTITLE": "三档套餐，按设备灵活选择",
+          "AI_HIGHLIGHT_1": "100GB 至 1000GB 月流量",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付节省约两个月费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别 ¥150、¥350、¥850。按设备数量与流量选择：1 至 3 台选基础版，5 台选旗舰版，20 台选团队版。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据同时在线设备数量与月流量需求，从基础版、旗舰版、团队版中选择合适的一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本要求，Windows、macOS、Android、iOS 与路由器各有对应客户端。",
+          "AI_STEP_TEXT_3": "打开所选客户端，按客户端文档导入订阅地址，完成节点配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "xip 海外加速订阅",
+          "AI_FAQ_ANSWER_1": "按设备数量与月流量估算：3 台以内选基础版，5 台左右选旗舰版，10 台以上或团队共享选团队版。",
+          "AI_FAQ_ANSWER_2": "按年付有明显优惠，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付可节省一定开支。",
+          "AI_FAQ_ANSWER_3": "在对应客户端中导入订阅地址或配置文件，按客户端文档提示完成更新，即可同步节点与套餐信息。",
+          "AI_FAQ_ANSWER_4": "旗舰版采用 IPLC 专线并进行游戏加速优化，适合对延迟敏感的场景；基础版使用普通线路节点池。",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，并提供 VIP 高带宽节点、企业定制路由与专属客户经理服务。",
+          "AI_FAQ_INTRO": "套餐对比、设备限制与订阅导入。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_3": "订阅导入后怎么更新节点？",
+          "AI_FAQ_QUESTION_4": "游戏加速推荐哪个套餐？",
+          "AI_FAQ_QUESTION_5": "团队版适合多少设备使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "25a887ec00de33aca7bd7bb5c3d596ab17b95085588eec1762023aef21c025e8",
+    "sitemap.xml": "b2326b617d933efa91fea8d8ad71d51b513cbb8e735e11fd51b82ad96e0a9a4f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "ca226608b1ff8d58ad259af2354c434e4b3a166f20338ce5629f9776ee45d2db"
+}
